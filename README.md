@@ -15,4 +15,4 @@
 
 ## Problem Statement
 NWM currently operates on a coarse stream network at the national scale, however, a finer scale network is needed to monitor impacts at the community level (e.g., using a densified stream network)
-<div align="center"> <img src="../img/NWM_DEN.png"> </div>
+<div align="center"> <img src="img/NWM_DEN.png"> </div>
