@@ -6,8 +6,8 @@
 # DensiFIMcation
 
 ### Team: 
-- Victor Oladoja (U Connecticut), 
-- Alex Simpson (U Oregon), 
+- Victor Oladoja (U Connecticut)
+- Alex Simpson (U Oregon)
 - Megan Vardaman (U New Hampshire) 
 
 ### Leads: 
