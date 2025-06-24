@@ -1,7 +1,7 @@
 # 2025 Summer Institute
 ## Urban Flood Visualization
 
-<div align="center"> <img src="../img/logo.png"> </div>
+<div align="center"> <img src="img/logo.png"> </div>
 
 # DensiFIMcation
 
